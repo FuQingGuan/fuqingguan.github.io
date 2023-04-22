@@ -28,7 +28,7 @@ timezone: 'Asia/Shanghai' # 网站时区。Hexo 默认使用您电脑的时区�
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://kr.ci # 网址, 必须以 http:// 或 https:// 开头
+url: https://kr.ci # 网址, 必须以 http:// 或 https:// 开头
 permalink: post/:abbrlink.html # post为自定义前缀
 abbrlink:
   alg: crc32   #算法： crc16(default) and crc32
