@@ -1,0 +1,19 @@
+- class_name: 小伙伴们 # title
+  class_desc:  # 备注
+  link_list: # 构建友链列表
+    - name: jszt
+      link: http://jsjianwang.cn/
+      avatar: https://p3-passport.byteimg.com/img/mosaic-legacy/3797/2889309425~100x100.awebp
+      descr: https://github.com/bjzt
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: ChatGPT
+      link: https://chat.openai.com/
+      avatar: https://oss.yiki.tech/images/image-20230329173848429.png
+      descr: 人工智能技术驱动的自然语言处理工具
