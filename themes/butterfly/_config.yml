@@ -902,8 +902,13 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    # wow
+    - <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" media="defer" onload="this.media='all'">
   bottom:
     # - <script src="xxxx"></script>
+    # wow
+    - <script defer src="https://cdn.jsdelivr.net/gh/graingert/wow@1.3.0/dist/wow.min.js"></script>
+    - <script defer data-pjax src="/js/wow_init.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
