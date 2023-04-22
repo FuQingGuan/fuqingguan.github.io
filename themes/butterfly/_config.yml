@@ -916,6 +916,9 @@ inject:
     # 星空背景
     - <canvas id="universe"></canvas>
     - <script defer src="/js/universe.js"></script>
+    # 主题冒泡
+    - <script defer src="https://npm.elemecdn.com/jquery@latest/dist/jquery.min.js"></script>
+    - <script data-pjax defer src="https://npm.elemecdn.com/tzy-blog/lib/js/theme/chocolate.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
