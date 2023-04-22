@@ -122,11 +122,11 @@ deploy:
   branch: main
 
 algolia:
-  appId: "GZDHISJ1AI"
-  apiKey: "c947eea4c4ba604686bae5a1c6f3a6d7"
-  adminApiKey: "fd71bc87c745cae5f109eb9eb1445451"
+  appId: "T3SXFY8E62"
+  apiKey: "523e58cb0ee9e88b9050aa96e02fdd69"
+  adminApiKey: "7c192aaa0edb694b27101d7fbd8671ac"
   chunkSize: 5000
-  indexName: "blog"
+  indexName: "Blog"
   fields:
     - content:strip:truncate,0,5000
     - excerpt:strip
