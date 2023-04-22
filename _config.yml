@@ -29,7 +29,10 @@ timezone: 'Asia/Shanghai' # 网站时区。Hexo 默认使用您电脑的时区�
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://kr.ci # 网址, 必须以 http:// 或 https:// 开头
-permalink: :year/:month/:day/:title/ # 文章的 永久链接 格式
+permalink: post/:abbrlink.html # post为自定义前缀
+abbrlink:
+  alg: crc32   #算法： crc16(default) and crc32
+  rep: hex     #进制： dec(default) and hex
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
