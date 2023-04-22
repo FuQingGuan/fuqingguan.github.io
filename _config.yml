@@ -120,3 +120,21 @@ deploy:
   type: git
   repository: git@github.com:FuQingGuan/FuQingGuan.github.io.git
   branch: main
+
+algolia:
+  appId: "GZDHISJ1AI"
+  apiKey: "c947eea4c4ba604686bae5a1c6f3a6d7"
+  adminApiKey: "fd71bc87c745cae5f109eb9eb1445451"
+  chunkSize: 5000
+  indexName: "blog"
+  fields:
+    - content:strip:truncate,0,5000
+    - excerpt:strip
+    - gallery
+    - permalink
+    - photos
+    - slug
+    - tags
+    - title
+plugins:
+  - hexo-algoliasearch
