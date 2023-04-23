@@ -13,9 +13,10 @@ menu:
    时间轴: /archives/ || fas fa-archive
    标签: /tags/ || fas fa-tags
    分类: /categories/ || fas fa-folder-open
-  # List||fas fa-list:
+   娱乐||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
+     blibli: /bangumis || fas fa-play
    友链: /link/ || fas fa-link
    关于: /about/ || fas fa-heart
 
