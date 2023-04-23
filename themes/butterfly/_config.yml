@@ -919,6 +919,8 @@ inject:
     # 主题冒泡
     - <script defer src="https://npm.elemecdn.com/jquery@latest/dist/jquery.min.js"></script>
     - <script data-pjax defer src="https://npm.elemecdn.com/tzy-blog/lib/js/theme/chocolate.js"></script>
+    # 白天夜间模式转换动画
+    - <script src="/js/sun_moon.js" async></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
