@@ -6,14 +6,45 @@
       avatar: https://p3-passport.byteimg.com/img/mosaic-legacy/3797/2889309425~100x100.awebp
       descr: https://github.com/bjzt
 
+    - name: Ethan.Tzy
+      link: https://tzy1997.com/
+      avatar: https://bu.dusays.com/2022/05/02/626f92e193879.jpg
+      descr: 古今之成大事者，不惟有超世之才，亦必有坚忍不拔之志
+
+    - name: Sunnee
+      link: https://sunn.ee
+      avatar: https://s2.loli.net/2023/03/31/zsbdUHyfBqF3lnN.png
+      descr: 老孙博客
+
+    - name: RikoNekoの猫窝 # 博客名称
+      link: https://www.rikoneko.xyz/ # 博客链接地址
+      avatar: https://for-site-img-1304973298.cos.ap-shanghai.myqcloud.com/img/header.webp # 头像
+      descr: 你永远不知道这代码是不是猫敲的
+
+    - name: 御网尚书的小宇宙
+      link: https://www.siteweb.cn/
+      avatar: https://websitecssjs.oss-cn-beijing.aliyuncs.com/links/favicon.ico
+      descr: 愿以赤子之心，共建网络空间安全
+
+    - name: 方亮博客
+      link: https://flzzz.com
+      avatar: https://flzzz.com/wp-content/uploads/2023/02/favicon-152.png
+      descr: 专注收录有意思的软件和网站
+
 - class_name: 网站
   class_desc: 值得推荐的网站
   link_list:
-    - name: Youtube
-      link: https://www.youtube.com/
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-      descr: 视频网站
+    - name: GitHub
+      link: https://github.com/
+      avatar: https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU
+      descr: GitHub是一个在线软件源代码托管服务平台，使用Git作为版本控制软件
+
     - name: ChatGPT
       link: https://chat.openai.com/
       avatar: https://oss.yiki.tech/images/image-20230329173848429.png
       descr: 人工智能技术驱动的自然语言处理工具
+
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站

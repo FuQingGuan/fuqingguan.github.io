@@ -144,7 +144,7 @@ plugins:
 
 # 看板娘
 live2d:
-  enable: true
+  enable: false
   scriptFrom: local # 默认
   tagMode: false # 标签模式, 是否仅替换 live2d tag标签而非插入到所有页面中
   debug: false # 调试, 是否在控制台输出日志
